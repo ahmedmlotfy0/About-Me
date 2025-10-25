@@ -28,7 +28,7 @@ I'm a **Data Analyst** with a unique journey: I graduated from the Faculty of Ve
 While I haven’t posted public data analysis projects yet, you can check out some of my other work:
 
 - [E-commerce Platform UX & Performance Optimization Project](https://github.com/ahmedmlotfy0/E-commerce-Platform-UX-Performance-Optimization-Project)
-- [Blank App Starter Template](https://github.com/ahmedmlotfy0/blank-app)
+- [Maven Mega Mart: Retail Sales Analysis](https://github.com/ahmedmlotfy0/Maven-Sales-Analysis)
 
 *Stay tuned for more data-driven projects soon!*
 
